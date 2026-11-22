@@ -204,6 +204,6 @@ A non-interactive (`aria-hidden`, `pointer-events-none`), truthful reproduction:
 - **Don't** bring Signal Pink/Blue into `/app/*`.
 - **Don't** add a kicker/eyebrow label above a heading anywhere in the product.
 - **Don't** invent stat-card deltas that aren't derived from real stored/computed data.
-- **Don't** hide row actions behind hover-only opacity — CLAUDE.md bans hidden actions; every "…" menu stays visible at rest.
+- **Don't** hide row actions behind hover-only opacity — the product rules ban hidden actions; every "…" menu stays visible at rest.
 - **Don't** add a sixth type size to the app ramp; give the landing page its own additive scale instead.
 - **Don't** ship an interactive pill/badge without `whitespace-nowrap` — this system's density means narrow columns are common.
